@@ -1,0 +1,1 @@
+make sure when using a comand remember to look up if capitals are used(example Math or JSON).

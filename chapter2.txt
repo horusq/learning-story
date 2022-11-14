@@ -1,0 +1,1 @@
+When  writing git commit messages make sure its in present tense.

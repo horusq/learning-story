@@ -1,0 +1,1 @@
+When making function it can be better to chart the process to make a visual representation making it easier to see what you will need to do with the code.
