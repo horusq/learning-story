@@ -1,1 +1,1 @@
-When using git vs code and atom will let you know what stage your git point is at green means not entered yellow means in staging area and white text means already committed. 
+When using git vs code and atom will let you know what stage your git point is at green letters mean not committed yellow letters means modified and white letters already committed. 
